@@ -142,7 +142,7 @@ Create a Tech Radar blip for Edge Computing
 
 Review cards and add a comment for 
 ```
-Consider Soverign Cloud approaches
+Consider Sovereign Cloud approaches
 ```
 
 
