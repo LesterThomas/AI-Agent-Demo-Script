@@ -133,6 +133,8 @@ https://lester-thomas.atlassian.net/jira/software/projects/BTS/boards/1
 Demonstrate that AI is not just a Chatbot.
 Show AI working on TechRadar papers independently, but with Human oversight
 
+Ensure the n8n script is running
+
 Empty kanban
 
 Put simple card into backlog with
@@ -140,9 +142,22 @@ Put simple card into backlog with
 Create a Tech Radar blip for Edge Computing
 ```
 
+
+It should automatically trigger the creation of new cards.
+
+Review one card.
+
+
+
 Review cards and add a comment for 
 ```
 Consider Sovereign Cloud approaches
 ```
 
+Look again at a couple of cards - move them all to the Reviewed tab.
 
+Refresh to see the Main card in Review (it may take a while afterwards for the actual Tech Radar to appear)
+
+
+
+Show the agent workflow
