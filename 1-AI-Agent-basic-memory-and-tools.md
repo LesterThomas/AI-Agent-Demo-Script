@@ -106,6 +106,10 @@ It is adding a description of the tools towards the LLM. The LLM in its next wor
 Repeat that this is my home computer and Claude is not a Vodafone approved tool and you should not send any Vodafone data to Claude.
 
 ```
+What is TM Forum ODA?
+```
+
+```
 Get information on all the TM Forum Open-APIs for Service Management. Show the output in a table with a description and example use-cases.
 ```
 
